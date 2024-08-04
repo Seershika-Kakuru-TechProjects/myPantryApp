@@ -39,6 +39,19 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 https://my-pantry-app-seershika-kakurus-projects.vercel.app/
 
+## About
+This project is a pantry management application that uses Next.js as the frontend framework, Material UI for the UI components, and Firebase as the backend service.
+Functionality include:
+- Adding new items to the pantry list
+- Updating the quantities of the existing items
+- Deleting items from the pantry list
+- Searching the pantry list for items with specific criteria
+- Filtering the pantry list based on the name (or) quantity of items
+- Selecting required columns
+- Saving the pantry list to a csv file
+- Printing/Saving the pantry list as a pdf
+
+
 ## Image Citation
 
 najiib, wildaanun. "Vegetable background design. banner template of healthy food illustration for copy space and frame Pro Vector." *Vecteezy*, https://www.vecteezy.com/vector-art/18853820-vegetable-background-design-banner-template-of-healthy-food-illustration-for-copy-space-and-frame.
