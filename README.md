@@ -51,6 +51,14 @@ Functionality include:
 - Saving the pantry list to a csv file
 - Printing/Saving the pantry list as a pdf
 
+## Skills
+- Node.js
+- React
+- Material UI library
+- Google Firestore
+- Vercel
+- Git
+
 
 ## Image Citation
 
